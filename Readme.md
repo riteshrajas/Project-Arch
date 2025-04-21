@@ -19,7 +19,7 @@ Project Arch is a high-level ML-based real-time scouting system in progress. It 
 - **YOLOv5 Vision Model**: Trained with a custom asset package to locate robots and game pieces.
 - **Python**: For backend processing and logic.
 - **OpenCV**: For video processing and frame analysis.
-
+https://www.ultralytics.com/
 ## Getting Started
 1. Clone the repository.
 2. Install dependencies using `pip install -r requirements.txt`.
